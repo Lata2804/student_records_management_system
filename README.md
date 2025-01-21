@@ -38,6 +38,14 @@ pip install streamlit
 streamlit run student_db_app.py
 Open your browser and go to the URL provided by Streamlit (usually http://localhost:2000).
 
+### Small demo clip:
+
+
+
+https://github.com/user-attachments/assets/8d393d36-58f4-4179-b89e-7631fa45d922
+
+
+
 ### Usage:
 - Create Table: Click the "Create Table" button to create a new database table for storing student records.
 - Add Record: Fill in the student details and click "Add Record" to store it in the database.
