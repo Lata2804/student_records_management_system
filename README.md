@@ -54,8 +54,14 @@ https://github.com/user-attachments/assets/8d393d36-58f4-4179-b89e-7631fa45d922
 - Modify Record: Select a record to modify by entering the Registration No and updating the desired field.
 - Delete Record: Delete a record by entering the Registration No and clicking the "Delete Record" button.
 - Sort Records: View the student records sorted by Registration No.
+
 ### Contributing:
 Feel free to fork this project and submit pull requests. If you find any bugs or issues, please open an issue on GitHub.
+
+### Currently working to add more features like:
+- multiple table support
+- sorting based on other attributes
+- more attractive and user friendly app interface
 
 ## License
 
